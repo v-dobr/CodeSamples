@@ -27,7 +27,7 @@ Dieses Beispiel befindet sich noch in Bearbeitung und wir würden uns über Ihre
 2.  Klicken Sie im linken Menü auf **Alle Elemente**, und wählen Sie dann das Verzeichnis für Ihre Office 365-Entwicklerwebsite aus.
 3.  Wählen Sie im oberen Menü **Anwendungen** aus.
 4.  Klicken Sie im Menü unten auf **Hinzufügen**.
-5.  Klicken Sie auf der Seite für die Auswahl der Aktionen**** auf **Eine von meinem Unternehmen entwickelte Anwendung hinzufügen**.
+5.  Klicken Sie auf der Seite für die Auswahl der Aktionen** ** auf **Eine von meinem Unternehmen entwickelte Anwendung hinzufügen**.
 6.  Geben Sie auf der Seite **Erzählen Sie uns von Ihrer Anwendung** die Option **iOS-Watch** für den Anwendungsnamen an, und wählen Sie **SYSTEMEIGENE CLIENTANWENDUNG** für den Typ aus.
 7.  Wählen Sie unten rechts auf der Seite das Pfeilsymbol aus.
 8.  Geben Sie auf der Seite **Anwendungsinformationen** einen **Umleitungs-URI** an. In diesem Beispiel können Sie **https://localhost** angeben und dann das **Häkchensymbol** in der unteren rechten Ecke der Seite auswählen. Merken Sie sich diesen Wert für den Abschnitt **Ausführen dieses Beispiels in Xcode**.

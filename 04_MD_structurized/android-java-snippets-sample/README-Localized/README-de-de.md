@@ -82,8 +82,8 @@ Sie benötigen Folgendes, um das Codeausschnittprojekt für das Microsoft Graph-
 2.  Klicken Sie im linken Menü auf **Active Directory**, und wählen Sie dann das Verzeichnis für Ihren Office 365-Mandanten aus.
 3.  Klicken Sie im oberen Menü auf **Anwendungen**.
 4.  Klicken Sie im Menü unten auf **Hinzufügen**.
-5.  Klicken Sie auf der Seite für die Auswahl der Aktionen**** auf **Eine von meinem Unternehmen entwickelte Anwendung hinzufügen**.
-6.  Geben Sie auf der Seite **Erzählen Sie uns von Ihrer Anwendung** die Option für das Android-Codeausschnittbeispiel**** für den Anwendungsnamen an, und wählen Sie **SYSTEMEIGENE CLIENTANWENDUNG** für den Typ aus.
+5.  Klicken Sie auf der Seite für die Auswahl der Aktionen** ** auf **Eine von meinem Unternehmen entwickelte Anwendung hinzufügen**.
+6.  Geben Sie auf der Seite **Erzählen Sie uns von Ihrer Anwendung** die Option für das Android-Codeausschnittbeispiel** ** für den Anwendungsnamen an, und wählen Sie **SYSTEMEIGENE CLIENTANWENDUNG** für den Typ aus.
 7.  Klicken Sie in der unteren rechten Ecke der Seite auf das Pfeilsymbol.
 8.  Geben Sie auf der Seite mit den **Anwendungsinformationen** einen **Umleitungs-URI** an, z. B. `http://localhost/androidsnippets`, und aktivieren Sie dann das Kontrollkästchen in der rechten unteren Ecke der Seite.
 9.  Nachdem die Anwendung erfolgreich hinzugefügt wurde, gelangen Sie zur Seite **Schnellstart** für die Anwendung. Klicken Sie dort im oberen Menü auf **Konfigurieren**. 
@@ -121,7 +121,7 @@ Nach dem Erstellen des Projekts können Sie es auf einem Emulator oder Gerät au
 4. Überprüfen und akzeptieren Sie die von der App angeforderten Berechtigungsbereiche.
 4. Klicken Sie auf einen Vorgang in der Hauptaktivität, um Vorgangsdetails anzuzeigen.
 5. Klicken Sie auf die Schaltfläche **AUSFÜHREN**, um den Vorgang zu starten, und warten Sie, bis der Vorgang abgeschlossen ist.
-6. Klicken Sie in das Textfeld für das Rohobjekt****, um den Inhalt des Felds in die Zwischenablage des Emulators/Geräts zu kopieren.
+6. Klicken Sie in das Textfeld für das Rohobjekt** **, um den Inhalt des Felds in die Zwischenablage des Emulators/Geräts zu kopieren.
 7. Klicken Sie auf der Symbolleiste auf die Schaltfläche „Zurück“, um zur Vorgangsliste zurückzukehren.
 8. (Optional) Klicken Sie auf das Überlaufmenü, um die Menüoption zum Trennen aufzurufen.
 

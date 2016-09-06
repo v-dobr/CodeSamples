@@ -34,16 +34,16 @@
 1. 根據 developer.android.com 上的[](http://developer.android.com/sdk/installing/adding-packages.html)，安裝 [Android Studio](http://developer.android.com/sdk/index.html) 及新增 Android SDK 套件。
 2. 下載或複製這個範例。
 3. 啟動 Android Studio。
-    1. 關閉您可能已開啟的任何專案，然後選擇 [開啟現有的 Android Studio 專案]****。
-    2. 瀏覽至您的本機存放庫，並且選擇 Android-Connect 專案。 按一下 [確定]****。
+    1. 關閉您可能已開啟的任何專案，然後選擇 [開啟現有的 Android Studio 專案]** **。
+    2. 瀏覽至您的本機存放庫，並且選擇 Android-Connect 專案。 按一下 [確定]** **。
     
-    > 附註：如果您未安裝 **Android Support Repository**，Android Studio 會顯示 [已偵測到 Frameworks] **** 開啟 SDK 管理員並加入 Android Support Repository，以避免偵測到Frameworks 的通知。
+    > 附註：如果您未安裝 **Android Support Repository**，Android Studio 會顯示 [已偵測到 Frameworks] ** ** 開啟 SDK 管理員並加入 Android Support Repository，以避免偵測到Frameworks 的通知。
 4. 開啟 Constants.java 檔案。
     1. 尋找 CLIENT_ID 常數並將其字串值設定為等於您在 Azure Active Directory 中註冊的用戶端識別碼。
     2. 尋找 REDIRECT_URI 常數並將其字串值設定為等於您在 Azure Active Directory 中註冊的重新導向 URI。
     ![Office 365 Connect 範例](../readme-images/Android-Connect-Constants.png "Constants 檔案中的用戶端識別碼和重新導向 URI 值")
 
-一旦建置 Connect 範例，您可以在模擬器或裝置上執行它。 從 [選擇裝置]**** 對話方塊挑選使用 API 層級 16 或更高層級的裝置。
+一旦建置 Connect 範例，您可以在模擬器或裝置上執行它。 從 [選擇裝置]** ** 對話方塊挑選使用 API 層級 16 或更高層級的裝置。
 
 若要深入了解此範例，請參閱[在 Android 應用程式中呼叫 Microsoft Graph](https://graph.microsoft.io/en-us/docs/platform/android)。
 

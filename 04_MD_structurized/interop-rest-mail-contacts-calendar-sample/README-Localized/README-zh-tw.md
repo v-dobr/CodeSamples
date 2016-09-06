@@ -64,13 +64,13 @@ Android | UWP
 
   * 如需註冊開發人員帳戶的詳細指示，請移至[這裡](https://msdn.microsoft.com/en-us/library/office/fp179924.aspx#o365_signup)。
 
-2. 一旦建立 Office 365 開發人員帳戶，前移至 [graph.microsoft.io](http://graph.microsoft.io/en-us/)，註冊您的應用程式，按一下 [應用程式註冊]****，然後按一下 [Office 365 應用程式註冊工具]****，或者您可以直接移至註冊頁面 [dev.office.com/app-registration](http://dev.office.com/app-registration)。
+2. 一旦建立 Office 365 開發人員帳戶，前移至 [graph.microsoft.io](http://graph.microsoft.io/en-us/)，註冊您的應用程式，按一下 [應用程式註冊]** **，然後按一下 [Office 365 應用程式註冊工具]** **，或者您可以直接移至註冊頁面 [dev.office.com/app-registration](http://dev.office.com/app-registration)。
 
   ![開始使用](../img/ms-graph-get-started.jpg) 
 
   ![後續步驟](../img/ms-graph-get-started-2.jpg)
 
-3. 提供您的應用程式名稱，並且在 [應用程式類型]**** 行中選取 [原生應用程式]****。 然後選擇重新導向 URI，慣用的命名慣例是：「您的 Office 365 網域 + 您的應用程式的唯一名稱」，但這並非必要，不過，必須格式化為 URI 且是唯一的。 例如，我將我的應用程式命名為 https://greencricketcreations.onmicrosoft.com/MyCalendarApp。 重新導向 URI 不是實際的網站；比較像是您的應用程式的唯一識別碼。 一旦您輸入名稱，重新導向 URI 會設定權限。 必要權限為：
+3. 提供您的應用程式名稱，並且在 [應用程式類型]** ** 行中選取 [原生應用程式]** **。 然後選擇重新導向 URI，慣用的命名慣例是：「您的 Office 365 網域 + 您的應用程式的唯一名稱」，但這並非必要，不過，必須格式化為 URI 且是唯一的。 例如，我將我的應用程式命名為 https://greencricketcreations.onmicrosoft.com/MyCalendarApp。 重新導向 URI 不是實際的網站；比較像是您的應用程式的唯一識別碼。 一旦您輸入名稱，重新導向 URI 會設定權限。 必要權限為：
 
   * 讀取使用者設定檔
   * 讀取使用者連絡人
@@ -79,7 +79,7 @@ Android | UWP
   * 以使用者的身分傳送郵件
   * 讀取和寫入使用者郵件
 
-4. 一旦您填寫表單，按一下 [註冊應用程式]****。
+4. 一旦您填寫表單，按一下 [註冊應用程式]** **。
 
   ![註冊應用程式](../img/ms-graph-get-started-3.jpg)
 
